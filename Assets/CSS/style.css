@@ -1,3 +1,5 @@
+/* Navigation */
+
 .menu {
     display: block;
     width: 100%;
@@ -38,6 +40,9 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+/* Body */
+
 body {
   padding-top: 150px;
 }
@@ -67,27 +72,7 @@ h1 {
   display: inline-block;
 }
 
-/* .wrapper {
-  display: flex;
-} */
-
-/* .row {
-  float: flex;
-  margin: 0, auto;
-  width: 33.33%;
-  padding: 5px;
-}
-.row3 {
-  float: flex;
-  margin: 0, auto;
-  width: 33.33%;
-  padding: 5px;
-  height: 100%;
-}
-.row3 img   {
-  height: 100%;
-}
-*/
+/* Portfolio Page */
 
 .work {
   text-align: center;
